@@ -1,4 +1,6 @@
-const fibonacci = function() {
+const fibonacci = function(number) {
+  let result = [];
+  
 
 };
 
